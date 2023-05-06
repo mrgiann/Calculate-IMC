@@ -1,1 +1,1 @@
-Calcula imc
+Calculate BMI is an application that allows you to calculate the body mass index (BMI) of a user based on their weight and height. In addition, the application provides a classification of the user's condition based on their BMI
